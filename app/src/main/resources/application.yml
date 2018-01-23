@@ -2,7 +2,7 @@
 spring:
     datasource:
         name: test
-        url: jdbc:mysql://118.31.46.55:3306/demo
+        url: jdbc:mysql://ip:port/dbname
         username: xxxxxx
         password: xxxxxx
         type: com.alibaba.druid.pool.DruidDataSource
